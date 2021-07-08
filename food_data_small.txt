@@ -1,0 +1,12 @@
+Bread stuffing, bread, dry mix (1 package (6 oz) / 170.0 grams):18.7,129.54,5.78,656.2
+Soup, beef and mushroom, low sodium, chunk style (1 cup / 251.0 grams):10.793,24.0458,5.773,68.00000000000001
+Teff, uncooked (1 cup / 193.0 grams):25.669,141.1409,4.5934,708.31
+Cookies, oatmeal, prepared from recipe, with raisins (1 oz / 28.35 grams):1.8428,19.3914,4.5927,123.3225
+Puddings, banana, dry mix, regular, with added oil (1 package (3.12 oz) / 88.0 grams):0.0,77.792,4.4,29.998642857144432
+Corn flour, masa, enriched, white (1 cup / 114.0 grams):9.6444,87.3126,4.2066,413.82
+Onions, young green, tops only (1 stalk / 12.0 grams):0.1164,0.6888,0.0564,0.3488571428556497
+Beef, brisket, flat half, separable lean and fat, trimmed to 1/8" fat, choice, raw (1 steak / 434.0 grams):78.6408,0.5208,96.131,1206.52
+Turkey, retail parts, drumstick, meat and skin, cooked, roasted (1 drumstick / 275.0 grams):77.5775,0.0,25.7675,173.7324451060661
+Fast foods, submarine sandwich, turkey, roast beef and ham on white bread with lettuce and tomato (12 inch sub / 413.0 grams):44.0258,84.0868,9.9946,602.98
+Cheese, mozzarella, nonfat (1 cup, shredded / 113.0 grams):35.821,3.955,0.0,7.994115976331346
+Gravy, au jus, canned (1 can / 298.0 grams):3.576,7.45,0.596,8.773438917602562
